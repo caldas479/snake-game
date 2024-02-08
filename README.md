@@ -6,6 +6,9 @@ This is a simple Snake game implemented in Python using the Pygame library.
 
 The Snake game is a classic arcade game where the player controls a snake that grows in length as it eats food. The objective is to navigate the snake around the screen without colliding with itself or the boundaries. The game ends when the snake collides with itself or the boundaries.
 
+![image](https://github.com/caldas479/snake-game/assets/94724871/d68a438d-5945-4d8e-a45e-63bc4971a685)
+
+
 ## Features
 
 - Classic Snake gameplay.
