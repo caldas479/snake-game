@@ -30,4 +30,4 @@ The Snake game is a classic arcade game where the player controls a snake that g
 
 ## License
 
-[MIT License]
+This project is licensed under the [MIT License](LICENSE).
